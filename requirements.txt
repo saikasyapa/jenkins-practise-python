@@ -1,1 +1,11 @@
-flask
+# Web framework
+Flask==3.0.3
+
+# Testing
+pytest==8.3.3
+
+# Linting
+flake8==7.1.1
+
+# (Optional) For environment variables management
+python-dotenv==1.0.1
